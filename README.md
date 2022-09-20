@@ -5,4 +5,4 @@ git clone https://github.com/nurhamimbadhon/Paid
 
 cd Paid
 
-Python 5.py
+python 5.py
